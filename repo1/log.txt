@@ -1,2 +1,11 @@
-This is a log File to track changes!
-Today's date is 10/02/2020
+commit 491d241b6cd79994460ebcdffb358105c712d120
+Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
+Date:   Fri Oct 2 23:12:23 2020 -0400
+
+    Log.txt has been added to track file changes in this repo
+
+commit 0a7f4f2cf7f994bfd0609a0faa71425ad33e8882
+Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
+Date:   Fri Oct 2 23:04:59 2020 -0400
+
+    Hello-world file has been added to repo1 repository
