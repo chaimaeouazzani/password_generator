@@ -1,3 +1,9 @@
+commit 83187afd645be84100f1e577382a4d61b42ad1e8
+Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
+Date:   Fri Oct 2 23:25:39 2020 -0400
+
+    HelloWorld.java is now running and print Hello World and today's date
+
 commit 491d241b6cd79994460ebcdffb358105c712d120
 Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
 Date:   Fri Oct 2 23:12:23 2020 -0400
