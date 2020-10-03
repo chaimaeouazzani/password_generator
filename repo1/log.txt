@@ -1,3 +1,9 @@
+commit 1e4547f8d6bb2b3aeb56c85c59bd86e729405dfe
+Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
+Date:   Fri Oct 2 23:28:50 2020 -0400
+
+    git add command was used to add fils and modify changes in the log file
+
 commit 83187afd645be84100f1e577382a4d61b42ad1e8
 Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
 Date:   Fri Oct 2 23:25:39 2020 -0400
