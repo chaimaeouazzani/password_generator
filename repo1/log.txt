@@ -1,23 +1,13 @@
-commit 1e4547f8d6bb2b3aeb56c85c59bd86e729405dfe
-Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
-Date:   Fri Oct 2 23:28:50 2020 -0400
+------------------------------------------------------------------------
+r3 | cochahdi | 2020-10-05 21:09:31 -0400 (Mon, 05 Oct 2020) | 1 line
 
-    git add command was used to add fils and modify changes in the log file
+log file is now tracking changes
+------------------------------------------------------------------------
+r2 | cochahdi | 2020-10-05 21:05:06 -0400 (Mon, 05 Oct 2020) | 1 line
 
-commit 83187afd645be84100f1e577382a4d61b42ad1e8
-Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
-Date:   Fri Oct 2 23:25:39 2020 -0400
+log.txt has been added to store and track all changes
+------------------------------------------------------------------------
+r1 | cochahdi | 2020-10-04 21:28:53 -0400 (Sun, 04 Oct 2020) | 1 line
 
-    HelloWorld.java is now running and print Hello World and today's date
-
-commit 491d241b6cd79994460ebcdffb358105c712d120
-Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
-Date:   Fri Oct 2 23:12:23 2020 -0400
-
-    Log.txt has been added to track file changes in this repo
-
-commit 0a7f4f2cf7f994bfd0609a0faa71425ad33e8882
-Author: chaimaeouazzani <chaimaeouazzani20@gmail.com>
-Date:   Fri Oct 2 23:04:59 2020 -0400
-
-    Hello-world file has been added to repo1 repository
+new File text has been added
+------------------------------------------------------------------------
